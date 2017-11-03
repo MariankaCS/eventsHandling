@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eventsHandling", "eventsHandling\eventsHandling.csproj", "{B94E42D5-8650-43B3-AC0D-8607249520F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clock", "Clock\Clock.csproj", "{1587AD88-A525-4008-856E-B0ED1ABA4515}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework10", "Homework10\Homework10.csproj", "{9EA62B82-C329-4B8F-829E-D19D4F589FFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B94E42D5-8650-43B3-AC0D-8607249520F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B94E42D5-8650-43B3-AC0D-8607249520F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B94E42D5-8650-43B3-AC0D-8607249520F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B94E42D5-8650-43B3-AC0D-8607249520F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1587AD88-A525-4008-856E-B0ED1ABA4515}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1587AD88-A525-4008-856E-B0ED1ABA4515}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1587AD88-A525-4008-856E-B0ED1ABA4515}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1587AD88-A525-4008-856E-B0ED1ABA4515}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EA62B82-C329-4B8F-829E-D19D4F589FFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EA62B82-C329-4B8F-829E-D19D4F589FFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EA62B82-C329-4B8F-829E-D19D4F589FFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EA62B82-C329-4B8F-829E-D19D4F589FFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
